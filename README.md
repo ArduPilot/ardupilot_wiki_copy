@@ -1,9 +1,8 @@
-# Ardupilot Wiki Sources
+# Ardupilot Wiki Old Sources
 
-UNDER CONSTRUCTION
+This wiki contains the source and build configuration files for the old ArduPilot wiki.
 
-This wiki contains the source and build configuration files for the ArduPilot wiki.
+The new wiki sources are at https://github.com/ArduPilot/ardupilot_wiki and serve https://ardupilot.org/ardupilot/. This repository is an archive.
 
 The wiki is built using Sphinx.
 
-Lots more to say, but we're under construction :-)
